@@ -8,7 +8,7 @@ export const Button = ({ children, primary }) => (
       height: 50,
       borderRadius: 20,
       borderStyle: 'solid',
-      borderWidth: 1,
+      borderWidth: 2,
       borderColor: primary ? '#00c4a7' : '#adadad',
       background: primary ? '#00c4a7' : '#fff',
       color: primary ? '#fff' : '#363636',
